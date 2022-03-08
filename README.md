@@ -1,6 +1,6 @@
 # XSS HTTP Inject0r
 
-XSS HTTP Inject0r is a proof of concept tool that shows how XSS (Cross Site Scripting) flags can be exploited easily.
+[epsylon - XSS HTTP Inject0r](https://github.com/epsylon/xsser.git) is a proof of concept tool that shows how XSS (Cross Site Scripting) flags can be exploited easily.
 
 It is written in HTML + Javascript + PHP and released under GPLv3.
 
